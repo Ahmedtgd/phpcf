@@ -1,5 +1,5 @@
 
-<?php-                                                                          
+<?php                                                                         
                       if( isset($_POST) && !empty($_POST) && is_array($_POST))                        
                               {                                                                               
                                $fullname =$_POST["fullname"];                                                 
